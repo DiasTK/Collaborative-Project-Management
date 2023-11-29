@@ -6,3 +6,7 @@ Frontend Assignment 10 Task. This repository is for the collaborative software p
 - **Main Branch:** `develop`
 - **Feature branches:** `feature/my-feature`.
 - **Pull Requests:** PULL_REQUEST.md.
+
+## Student Info
+- **Full Name:** Tarikh Dias
+- **ID:** 220107080
